@@ -1,0 +1,1 @@
+This project is a demonstration of using hibernate in a sample spigot, don't forget to run the SQL codes in project.sql before running the plugin.
